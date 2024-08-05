@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Trello Kabana",
+    "imageSrc": "projects/Trello-logo.png",
+    "description": "This is a project made to learn the React and data flow in it by building an trello board.",
+    "skills": ["React", "HTML","CSS","JavaScript"],
+    "source": "https://github.com/Divyanshu2607/trello_clone"
+  },
+  {
+    "title": "GisMos",
+    "imageSrc": "projects/Gismos.png",
+    "description": "This is a project made to learn the MERN stack by building an Ecommerce platform.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "source": "https://github.com/Divyanshu2607/GisMos"
+  },
+  {
+    "title": "ChatterBox",
+    "imageSrc": "projects/chatterbox.png",
+    "description": "This is a project made to learn the socket.io in MERN stack for streamline communication.",
+    "skills": ["React", "Express", "Node"],
+    "source": "https://github.com/Divyanshu2607/Chat_Application"
+  }
+]
+
+ 
